@@ -12,7 +12,7 @@ github_url = "https://github.com/captcha-api/keptcha-py"
 
 setup(
     name="keptcha",
-    version="0.1",
+    version="0.1.2",
     description=short_description,
     long_description=long_description,
     long_description_content_type="text/markdown",
