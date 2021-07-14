@@ -17,8 +17,8 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url=github_url,
-    author="SyedAhkam",
-    author_email="smahkam57@gmail.com",
+    author="Syed_Ahkam",
+    author_email="smahkam313@gmail.com",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
