@@ -7,7 +7,6 @@
 ```sh
 pip install keptcha
 ```
-> The project is not yet released on pypi so above would not work, proceed with git installation.
 
 OR using git
 
